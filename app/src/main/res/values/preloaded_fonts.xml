@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aladin</item>
+        <item>@font/alex_brush</item>
+        <item>@font/baskervville</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/cedarville_cursive</item>
+        <item>@font/devonshire</item>
+        <item>@font/gabriela</item>
+        <item>@font/leckerli_one</item>
+    </array>
+</resources>
